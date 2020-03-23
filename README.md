@@ -2,7 +2,7 @@
 Autonomous Mobile Robot Competition Third Place
 
 
-[![ScreenShot](/upload/ask/29/W/WebMole_Youtube_Video.png)](https://www.youtube.com/embed/o3ee7q3bmKg)
+[![ScreenShot](youtube.png)](https://www.youtube.com/embed/o3ee7q3bmKg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o3ee7q3bmKg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
